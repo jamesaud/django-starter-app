@@ -1,7 +1,7 @@
 from django.apps import AppConfig
 
 
-class ShipmentsConfig(AppConfig):
+class DjangoStarterAppConfig(AppConfig):
     name = '{{YOURPROJECTNAME}}.django-starter-app'
     verbose_name = "django-starter-app"
 
